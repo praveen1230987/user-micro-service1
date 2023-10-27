@@ -103,4 +103,5 @@ userController.deleteProfile = {
     }     
 }
 let x = 10;
+x=10;
 module.exports = userController
